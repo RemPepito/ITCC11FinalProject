@@ -857,7 +857,7 @@ class loginPage {
         taylorTextShowDate.setVisible(true);
 
         // Date and time text
-        JLabel dateTimetext = new JLabel("DATE AND TIME");
+        JLabel dateTimetext = new JLabel("SELECT TIME");
         dateTimetext.setBounds(567, 91, 200, 23);
         dateTimetext.setFont(new Font("Inter", Font.BOLD, 20));
         dateTimetext.setForeground(Color.black);
